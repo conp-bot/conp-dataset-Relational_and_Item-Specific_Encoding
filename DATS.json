@@ -33,16 +33,62 @@
     ],
     "distributions": [
         {
-            "size": 377.59,
+            "title": "Main project files",
+            "size": 386.66,
             "unit": {
                 "value": "KB"
             },
             "access": {
                 "landingPage": "https://osf.io/zej5w/",
-                 "authorizations": [
-                      {
+                "accessURL": "https://files.us.osf.io/v1/resources/zej5w/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
                         "value": "public"
-                      }            
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "RISE encoding: code (GitLab: crisp/rise-encoding)",
+            "identifier": {
+                "identifier": "https://osf.io/3xha6/",
+                "identifierSource": "OSF"
+            },
+            "size": 2.76,
+            "unit": {
+                "value": "KB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/zej5w/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            },
+            "formats": [
+                "N/A"
+            ]
+        },
+        {
+            "title": "RISE recognition: code (GitLab: crisp/rise-recognition)",
+            "identifier": {
+                "identifier": "https://osf.io/e4x8q/",
+                "identifierSource": "OSF"
+            },
+            "size": 220.21,
+            "unit": {
+                "value": "KB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/zej5w/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
                 ]
             },
             "formats": [
